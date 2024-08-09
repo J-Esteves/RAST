@@ -1,5 +1,7 @@
 # RAST
  Reconhecimento Automatico de Sinais de Transito
+
+ Projeto final de Licenciatura em Engenharia Informática
  
 Requisitos para executar o Programa.py:
 	Python 3.7.0
